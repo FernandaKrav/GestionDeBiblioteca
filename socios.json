@@ -1,0 +1,29 @@
+[
+    {
+        "id_socio": 1,
+        "nombre": "Carlos",
+        "apellido": "Lopez",
+        "fecha_nacimiento": "1980-03-25",
+        "direccion": "Calle 9 de Julio 456",
+        "correo_electronico": "carlos.lopez@example.com",
+        "telefono": "456-7890"
+    },
+    {
+        "id_socio": 2,
+        "nombre": "Fernanda",
+        "apellido": "Segura",
+        "fecha_nacimiento": "01/10/1994",
+        "direccion": "Barrio Ojo de Agua 1586",
+        "correo_electronico": "fersegura@gmail.com",
+        "telefono": "1124005566"
+    },
+    {
+        "id_socio": 3,
+        "nombre": "Andrea",
+        "apellido": "Segura",
+        "fecha_nacimiento": "29/06/1997",
+        "direccion": "barrio ojo de agua",
+        "correo_electronico": "andresegura@gmail.com",
+        "telefono": "3834556699"
+    }
+]

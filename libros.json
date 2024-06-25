@@ -1,0 +1,29 @@
+[
+    {
+        "id_libro": 1,
+        "titulo": "Cien Anios de Soledad",
+        "autor": "Gabriel Garcia Marquez",
+        "editorial": "Sudamericana",
+        "ano_publicacion": 1967,
+        "genero": "Novela",
+        "cantidad_disponible": 3
+    },
+    {
+        "id_libro": 2,
+        "titulo": "Don Quijote de la Mancha",
+        "autor": "Miguel de Cervantes",
+        "editorial": "Francisco de Robles",
+        "ano_publicacion": 1605,
+        "genero": "Novela",
+        "cantidad_disponible": 2
+    },
+    {
+        "id_libro": 3,
+        "titulo": "Harry P.",
+        "autor": "JK Rowling",
+        "editorial": "Planeta",
+        "ano_publicacion": "2002",
+        "genero": "Ciencia Ficcion",
+        "cantidad_disponible": 3
+    }
+]
